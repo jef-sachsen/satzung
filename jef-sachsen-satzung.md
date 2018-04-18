@@ -12,6 +12,7 @@ header-includes:
 - \fancyhead[RO,RE]{Stand 01.07.2017}
 - \fancyfoot[CO,CE]{\thepage}
 output: pdf_document
+github-tag: 170701
 ---
 
 ## I. Allgemeines
