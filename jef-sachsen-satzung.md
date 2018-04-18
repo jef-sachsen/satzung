@@ -1,6 +1,18 @@
-# Satzung der Jungen Europäischen Föderalisten Sachsen e.V.
-
-Stand: 01.07.2017
+---
+title: "Satzung der Jungen Europäischen Föderalisten Sachsen"
+subtitle: "Stand 01.07.2017"
+documentclass: scrartcl
+geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
+toc: yes
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[LO,LE]{JEF Sachsen}
+- \fancyhead[CO,CE]{}
+- \fancyhead[RO,RE]{Stand 01.07.2017}
+- \fancyfoot[CO,CE]{\thepage}
+output: pdf_document
+---
 
 ## I. Allgemeines
 
@@ -155,5 +167,3 @@ Das Bundesschiedsgericht der JEF Deutschland kann angerufen werden bei Streitigk
 
 ### § 24: Verweis auf Bundessatzung
 Um Zweifeln dieser Satzung auszuräumen oder Lücken zu schließen, soll die Bundessatzung, die Finanz- und Beitragsordnung des Bundesverbandes und ggf. weiterer Beschlüsse des Bundesverbandes herangezogen werden.
-
-Ort, Datum
