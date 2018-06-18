@@ -154,7 +154,7 @@ Die Organe für den Landesverband sind:
 
 
 ### § 21: Änderung der Landessatzung
-1. Eine Änderung der Landessatzung kann durch die Landesversammlung mit Dreiviertel-Mehrheit der anwesenden Stimmen beschlossen werden. Die Antragsfrist für satzungsändernde Anträge beträgt vier Wochen. Die vorgeschlagene Satzungsänderung muss mit der Einladung zur Landesversammlung an die Mitglieder versendet werden.
+1. Eine Änderung der Landessatzung kann durch die Landesversammlung mit Zweidrittel-Mehrheit der anwesenden Stimmen beschlossen werden. Die Antragsfrist für satzungsändernde Anträge beträgt vier Wochen. Die vorgeschlagene Satzungsänderung muss mit der Einladung zur Landesversammlung an die Mitglieder versendet werden.
 2. Satzungsändernde Anträge können von jedem Mitglied der JEF Sachsen gestellt werden.
 3. Satzungsänderungen, die aufgrund von Auflagen der Gerichte oder Behörden notwendig sind, kann der Landesvorstand beschließen, sofern die Satzung dadurch nicht in ihrem Wesen verändert wird.
 4. Dementsprechend vorgenommene Änderungen und Ergänzungen sind der nächsten Landesversammlung zur Genehmigung vorzulegen.
