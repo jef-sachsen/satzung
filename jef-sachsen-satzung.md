@@ -1,6 +1,6 @@
 ---
 title: "Satzung der Jungen Europäischen Föderalisten Sachsen"
-subtitle: "Stand 01.07.2017"
+subtitle: "Stand 16.06.2018"
 documentclass: scrartcl
 geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
 toc: yes
@@ -9,10 +9,10 @@ header-includes:
 - \pagestyle{fancy}
 - \fancyhead[LO,LE]{JEF Sachsen}
 - \fancyhead[CO,CE]{}
-- \fancyhead[RO,RE]{Stand 01.07.2017}
+- \fancyhead[RO,RE]{Stand 16.06.2018}
 - \fancyfoot[CO,CE]{\thepage}
 output: pdf_document
-github-tag: 170701
+github-tag: 180616
 ---
 
 ## I. Allgemeines
