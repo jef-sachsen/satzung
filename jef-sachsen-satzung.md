@@ -54,7 +54,7 @@ github-tag: 170701
 
 
 ### § 7: Aufnahme
-Die Aufnahme erfolgt durch die Bestätigung des Aufnahmeantrages durch den Landesvorstand.
+Die Aufnahme zum Mitglied erfolgt durch Beschluss des Landesvorstands.
 
 
 ### § 8: Ende der Mitgliedschaft
@@ -88,7 +88,7 @@ Die Organe für den Landesverband sind:
 7. Die ordentliche Landesversammlung findet einmal jährlich statt. Eine außerordentliche Landesversammlung kann auf Beschluss des Landesvorstandes einberufen werden. Außerdem muss eine außerordentliche Landesversammlung einberufen werden, wenn ein Zehntel aller Mitglieder eine Einberufung fordern.
 8. Die Landesversammlung ist beschlussfähig, wenn:
     1. Der Landesvorstand ordnungsgemäß schriftlich eingeladen hat,
-    2. die Einladung mindestens drei Wochen vor dem Versammlungstermin verschickt wurde und
+    2. die Einladung mindestens zwei Wochen vor dem Versammlungstermin verschickt wurde und
     3. fünf stimmberechtigte Mitglieder anwesend sind.
 9. Antragsberechtigt zur Landesversammlung sind alle Mitglieder der JEF Sachsen. Anträge müssen spätestens eine Woche vor der Landesversammlung schriftlich beim Landesvorstand eingegangen sein, soweit diese Satzung nicht etwas anderes bestimmt.
 10. Die Anträge müssen den Mitgliedern spätestens zwei Tage vor der Landesversammlung zugeleitet werden.
@@ -103,8 +103,8 @@ Die Organe für den Landesverband sind:
     3. die Koordinierung der Arbeit der Organe des Landesverbandes,
     4. die Durchführung der Beschlüsse der Landesversammlung.
 2. Der Landesvorstand besteht aus dem/der Landesvorsitzenden, zwei stellvertretenden Landesvorsitzenden und dem/der Schatzmeister\*in. Wählbar sind nur Personen, die zum Zeitpunkt der Wahl Mitglieder der JEF Sachsen sind.
-3. Vertretungsberechtigt i.S.d. § 26 BGB sind der/die Landesvorsitzende, die beiden stellvertretenden Landesvorsitzenden und der/die Schatzmeister\*in. Sie bilden den geschäftsführenden Vorstand und vertreten den Verband nach außen. Der/Die Landesvorsitzende ist einzeln vertretungsberechtigt, die übrigen Vorstandsmitglieder sind es wenigstens zu zweit. 
-4. Der Landesvorstand tagt mindestens viermal im Jahr und wird von dem/der Landesvorsitzenden einberufen. Der Landesvorstand ist beschlussfähig, wenn er ordnungsgemäß, mindestens eine Woche vor der Sitzung, einberufen wurde und mindestens drei Mitglieder des geschäftsführenden Landesvorstands anwesend sind. Der Landesvorstand tagt grundsätzlich öffentlich. Die Öffentlichkeit kann aus wichtigem Grund vom Vorstand ausgeschlossen werden. Der Grund wird den Mitgliedern mitgeteilt. Über die Sitzungen des Landesvorstands ist ein Ergebnisprotokoll anzufertigen.
+3. Vertretungsberechtigt i.S.d. § 26 BGB sind der/die Landesvorsitzende, die beiden stellvertretenden Landesvorsitzenden und der/die Schatzmeister\*in. Sie bilden den geschäftsführenden Vorstand und vertreten den Verband nach außen. Der/Die Landesvorsitzende und der/die Schatzmeister(in) sind einzeln vertretungsberechtigt, die übrigen Vorstandsmitglieder sind es wenigstens zu zweit.
+4. Der Landesvorstand wird von dem/der Landesvorsitzenden einberufen. Der Landesvorstand ist beschlussfähig, wenn er ordnungsgemäß, mindestens eine Woche vor der Sitzung, einberufen wurde und mindestens drei Mitglieder des geschäftsführenden Landesvorstands anwesend sind. Der Landesvorstand tagt grundsätzlich öffentlich. Die Öffentlichkeit kann aus wichtigem Grund vom Vorstand ausgeschlossen werden. Der Grund wird den Mitgliedern mitgeteilt. Über die Sitzungen des Landesvorstands ist ein Ergebnisprotokoll anzufertigen.
 5. Der Landesvorstand kann sich eine Geschäftsordnung geben.
 
 
@@ -154,7 +154,7 @@ Die Organe für den Landesverband sind:
 
 
 ### § 21: Änderung der Landessatzung
-1. Eine Änderung der Landessatzung kann durch die Landesversammlung mit Zweidrittel-Mehrheit der anwesenden Stimmen beschlossen werden. Die Antragsfrist für satzungsändernde Anträge beträgt vier Wochen. Die vorgeschlagene Satzungsänderung muss mit der Einladung zur Landesversammlung an die Mitglieder versendet werden.
+1. Eine Änderung der Landessatzung kann durch die Landesversammlung mit Zweidrittel-Mehrheit der anwesenden Stimmen beschlossen werden. Die Antragsfrist für satzungsändernde Anträge beträgt zwei Wochen. Die vorgeschlagene Satzungsänderung muss mit der Einladung zur Landesversammlung an die Mitglieder versendet werden.
 2. Satzungsändernde Anträge können von jedem Mitglied der JEF Sachsen gestellt werden.
 3. Satzungsänderungen, die aufgrund von Auflagen der Gerichte oder Behörden notwendig sind, kann der Landesvorstand beschließen, sofern die Satzung dadurch nicht in ihrem Wesen verändert wird.
 4. Dementsprechend vorgenommene Änderungen und Ergänzungen sind der nächsten Landesversammlung zur Genehmigung vorzulegen.
